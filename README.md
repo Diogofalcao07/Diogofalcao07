@@ -42,10 +42,6 @@ Before working on robot perception, I interned at the **Laboratory of Instrument
 
 I've also worked on an API for filtering and indexing HTML context for LLM web agents, with token efficiency and prompt-injection prevention as goals. That work earned **2nd place at Munich Hack in 2025**. Earlier, my team reached the **top 10 out of 100 startups at the European Innovation Academy**.
 
-## Away from the projects
-
-I've taught first-year physics and tutored maths and physics. Outside university, I've volunteered with **Guinanos**, which supports education and school infrastructure in Guinea-Bissau, and joined an environmental volunteering camp in Iceland.
-
 ## Get in touch
 
 Happy to talk about computer vision, robotics, or an idea that could use a prototype.
